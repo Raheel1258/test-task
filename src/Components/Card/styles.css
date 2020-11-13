@@ -1,0 +1,17 @@
+.card-container{
+  display: flex;
+  margin: 20px;
+  border: 1px solid;
+  padding: 5px;
+}
+
+.card-image{
+  margin-right: 5px;
+  height: 51px;
+  width: 47px;
+}
+
+.card-img{
+  height:100%;
+  width:100%;
+}

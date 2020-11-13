@@ -1,0 +1,10 @@
+.capture-text__container{
+  margin-bottom: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.capture-text{
+  font-weight: bold;
+}

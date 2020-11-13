@@ -1,0 +1,20 @@
+.nav-bar__container{
+  background: #192E61;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.nav-bar__heading{
+  font-size: 25px;
+  color: white;
+}
+
+.nav-bar__menu-icon{
+  cursor: pointer;
+  font-size: 25px;
+  padding: 5px;
+  color: white;
+}

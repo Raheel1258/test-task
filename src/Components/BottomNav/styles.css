@@ -1,0 +1,39 @@
+.bottom-bar__container{
+  background: #192E61 ;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: center;
+}
+
+.bottom-bar__action{
+  font-size: 40px;
+  border: 1px solid white;
+  border-radius: 50px;
+  text-align: center;
+  display: flex;
+  padding: 11px;
+  cursor: pointer;
+}
+
+
+.file-upload{
+	position:relative;
+}
+.file-upload input{
+	position:absolute;
+	height:400px;
+	width:400px;
+	left:-200px;
+	top:-200px;
+	background:transparent;
+	opacity:0;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);  
+}
+.file-upload img{
+	height:70px;
+	width:70px;
+	margin:15px;
+}
